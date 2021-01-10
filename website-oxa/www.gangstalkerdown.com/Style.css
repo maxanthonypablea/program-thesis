@@ -1,0 +1,51 @@
+body
+    {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    }
+i.pdf
+    {
+    color: #770000;
+    }
+i.quote
+    {
+    color: #777700;
+    }
+i.zip
+    {
+    color: #777777;
+    }
+i.zn
+    {
+    color: #770077;
+    }
+img
+    {
+    font-size: 6px;
+    }
+p
+    {
+    font-family: Times New Roman, Times;
+    font-size: 24px;
+    }
+p.inhoud
+    {
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+td
+    {
+    font-family: Times New Roman, Times;
+    font-size: 24px;
+    }
+td.marge
+    {
+    background-color: #000000;
+    color: #FFFFFF;
+    }
+td.inhoud
+    {
+    background-color: #FFFFFF;
+    }
