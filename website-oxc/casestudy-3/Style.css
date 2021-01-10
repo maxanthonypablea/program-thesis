@@ -1,0 +1,181 @@
+a
+    {
+    text-decoration: none;
+    color: #4545c6;
+    }
+a.h2
+    {
+    color: #000000;
+    }
+body
+    {
+    margin-left: 177px;
+    margin-top: 80px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+    }
+div.gradient
+    {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 80px;
+    background: url("Media/Images/Style/Gradient.png");
+    }
+div.inhoud
+    {
+    padding: 0.5em;
+    border: solid thin;
+    background-color: #F9F9F9;
+    color: #AAAAAA;
+    width: 250px;
+    }
+div.logolinks
+    {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    }
+div.paginaoverleg
+    {
+    position: absolute;
+    left: 161px;
+    top: 0px;
+    width: 109px;
+    height: 80px;
+    }
+div.lezen
+    {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    }
+h1
+    {
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    border-bottom: 1px solid #AAA;
+    color: #000000;
+    background: none;
+    font-weight: normal;
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial Unicode MS, Arial;
+    font-size: 24px;
+    }
+h2
+    {
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    border-bottom: 1px solid #AAA;
+    color: #000000;
+    background: none;
+    font-weight: normal;
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial Unicode MS, Arial;
+    font-size: 20px;
+    }
+h3
+    {
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    border-bottom: 1px solid #AAA;
+    color: #000000;
+    background: none;
+    font-weight: normal;
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial Unicode MS, Arial;
+    font-size: 16px;
+    }
+i.duur
+    {
+    color: #770000;
+    }
+i.pdf
+    {
+    color: #777777;
+    }
+i.quote
+    {
+    color: #777700;
+    }
+i.zip
+    {
+    color: #777777;
+    }
+img
+    {
+    font-size: 6px;
+    }
+li
+    {
+    font-family: Arial Unicode MS, Arial;
+    font-size: 13px;
+    }
+ol.inhoudnr
+    {
+    color: #4545c6;
+    }
+p
+    {
+    font-family: Arial Unicode MS, Arial;
+    font-size: 13px;
+    }
+p.prentje
+    {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    }
+pre
+    {
+    font-family: Courier New, Courier;
+    font-size: 13px;
+    color: #4242CE;
+    }
+span.geregistreerd
+    {
+    color: #7777FF;
+    }
+span.goed
+    {
+    color: #77FF77;
+    }
+span.inhoud
+    {
+    font-weight: bold;
+    color: #000000;
+    }
+span.nr
+    {
+    color: #00FF00;
+    }
+span.schijnlink
+    {
+    font-size: 13px;
+    color: #4545c6;
+    }
+span.pdf
+    {
+    color: #AAAA00;
+    }
+span.slecht
+    {
+    color: #FF7777;
+    }
+span.zn
+    {
+    color: #777700;
+    }
+sup
+    {
+    font-family: Arial Unicode MS, Arial;
+    font-size: 10px;
+    }
+sup.label
+    {
+    font-style: italic;
+    color: #4242CE;
+    }
