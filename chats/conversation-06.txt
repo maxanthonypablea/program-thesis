@@ -1,0 +1,33 @@
+
+This document describes how your regular consumer modem given to you by your ISP can be (is being) used to intercept all your traffic for intelligence gathering purposes. And what you can do about it. It is 60 pages with lots of technical jargon. But please take the time to read it in full because it contains VALUABLE information.
+
+http://cryptome.org/2013/12/Full-Disclosure.pdf
+
+-----
+"The NSA also attacks network devices directly: routers, switches, firewalls, etc. Most of these devices
+have surveillance capabilities already built in; the trick is to surreptitiously turn them on. This is an
+especially fruitful avenue of attack; routers are updated less frequently, tend not to have security software
+installed on them, and are generally ignored as a vulnerability."
+
+"The NSA also devotes considerable resources to attacking endpoint computers. This kind of thing is done by
+its TAO ' Tailored Access Operations ' group. TAO has a menu of exploits it can serve up against your
+computer ' whether you're running Windows, Mac OS, Linux, iOS, or something else ' and a variety of tricks
+to get them on to your computer. Your anti-virus software won't detect them, and you'd have trouble finding
+them even if you knew where to look. These are hacker tools designed by hackers with an essentially
+unlimited budget. What I took away from reading the Snowden documents was that if the NSA wants in to
+your computer, it's in. Period."
+
+The evidence provided by this Full-Disclosure is the first independent
+technical verifiable proof that Bruce Schneier's statements are indeed
+correct.
+-----
+
+
+
+
+
+I think the TAO people are mostly script kids.
+
+They certainly have more advanced versions of tools like Nessus and larger exploit databases than the publicly available ones (0day stuff), but I think that quite a bit can be done to lessen your attack surface and generally swamp the American surveillance apparatus with false positives. Their source code analysis tools are likely to be at least a few generations ahead of their public counterparts. It's tricky to discuss this sort of thing. I need to give it more thought.
+
+I'm just assuming that this site is compromised, which makes things weirder. 
