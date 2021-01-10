@@ -1,0 +1,74 @@
+a.broken
+    {
+    color: #0000CC;
+    }
+body
+    {
+    margin-left: 32px;
+    margin-right: 32px;
+    }
+div
+    {
+    padding: 1em;
+    border: solid thin;
+    margin: 1em;
+    }
+div.email
+    {
+    background-color: #FFFFFF;
+    }
+i.pdf
+    {
+    color: #770000;
+    }
+i.quote
+    {
+    color: #777700;
+    }
+i.zn
+    {
+    color: #770077;
+    }
+img
+    {
+    font-size: 6px;
+    }
+li
+    {
+    font-family: Palatino, Palatino Linotype;
+    font-size: 24px;
+    }
+p.image
+    {
+    font-size: 9px;
+    }
+p.text
+    {
+    font-family: Palatino, Palatino Linotype;
+    font-size: 24px;
+    }
+p.title
+    {
+    font-size: 9px;
+    }
+pre
+    {
+    font-size: 24px;
+    }
+span.stift
+    {
+    background-color: #FFFF00;
+    }
+td
+    {
+    font-family: Palatino, Palatino Linotype;
+    font-size: 24px;
+    }
+td.claim
+    {
+    background-color: #FFFFFF;
+    }
+td.status
+    {
+    background-color: #FFFFFF;
+    }
